@@ -14,7 +14,7 @@ Neste tutorial você irá ver o passo a passo para a criação de um masternode 
 7. Digite o comando ```masternode outputs``` e dê _[ENTER]_. Se tudo estiver certo vai aparecer um array em que cada item tem dois parâmetros, o ```txhash``` e o ```outputindex```. Anote esses parâmetros.
 8. Ainda no console, digite ```masternode genkey```. Será gerada uma PrivKey do seu masternode. Anote esse parâmetro.
 
-9. Após isso, entre em contato comigo pelo telegram ou whatsapp para consultar qual é o custo da hospedagem e prosseguirmos com a hospedagem do masternode. Serão solicitados os parâmetros gerados no console. Você receberá então após a hospedagem ser realizada, um código de masternode para você poder visualizar o estado do seu masternode.
+9. Após isso, entre em contato comigo pelo [telegram](https://t.me/matheus_bach) ou [whatsapp](https://api.whatsapp.com/send?phone=5549985054419&text=Quero%20hopedar%20meu%20masternode%20na%20True%20Nodes) para consultar qual é o custo da hospedagem e prosseguirmos com a hospedagem do masternode. Serão solicitados os parâmetros gerados no console. Você receberá então após a hospedagem ser realizada, um código de masternode para você poder visualizar o estado do seu masternode.
 
 10. Em cima no menu, vá em ```Ferramentas(tools) > Abrir arquivo de Configuração de Masternode```
 11. No final do arquivo adicione a linha que eu lhe enviarei após a hospedagem ser completada. Salve e feche. Feche também a carteira RDCToken e abra ela novamente.
