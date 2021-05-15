@@ -1,4 +1,4 @@
-# Tutorial de criação de masternode hospedado pela True Nodes
+# Tutorial de criação de masternode RDCToken hospedado pela True Nodes
 Neste tutorial você irá ver o passo a passo para a criação de um masternode e as etapas para nos enviar os parâmetros necessários para a hospedagem.
 
 ### Você irá precisar de
