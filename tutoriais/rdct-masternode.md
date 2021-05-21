@@ -11,7 +11,7 @@ Neste tutorial você irá ver o passo a passo para a criação de um masternode 
 3. Digite ```getaccountaddress masternode01```. Será gerado um endereço de recebimento. Anote esse endereço.;
 4. Envie exatamente 7500 moedas para esse endereço;
 6. Aguarde a transação ser totalmente confirmada;
-7. Digite o comando ```masternode outputs``` e dê _[ENTER]_. Se tudo estiver certo vai aparecer um array em que cada item tem dois parâmetros, o ```txhash``` e o ```outputindex```. Anote esses parâmetros.
+7. Voltando ao console, digite o comando ```masternode outputs``` e dê _[ENTER]_. Se tudo estiver certo vai aparecer um array em que cada item tem dois parâmetros, o ```txhash``` e o ```outputindex```. Anote esses parâmetros.
 8. Ainda no console, digite ```masternode genkey```. Será gerada uma PrivKey do seu masternode. Anote esse parâmetro.
 
 9. Após isso, entre em contato comigo pelo [telegram](https://t.me/matheus_bach) ou [whatsapp](https://api.whatsapp.com/send?phone=5549985054419&text=Quero%20hopedar%20meu%20masternode%20na%20True%20Nodes) para consultar qual é o custo da hospedagem e prosseguirmos com a hospedagem do masternode. Serão solicitados os parâmetros gerados no console. Você receberá então após a hospedagem ser realizada, um código de masternode para você poder visualizar o estado do seu masternode.
