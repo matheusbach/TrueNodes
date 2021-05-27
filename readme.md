@@ -1,7 +1,9 @@
 # TrueNodes
 Repositório com informações e tutoriais para a True Nodes
 
+### [⚠️ Repositório movido. Clique aqui para acessar o novo ⚠️](https://github.com/TrueNodes)
 
+#
 [Termos de serviço](TERMOS.md)
 
 Para aprender a criar um masternode RDCToken hospedado pela True nodes, [entre aqui](tutoriais/rdct-masternode.md)
